@@ -4,7 +4,7 @@
   "description": "Test Driven Express",
   "main": "app.js",
   "scripts": {
-    "test": "mocha -u exports test/**/*"
+    "test": "mocha lib/**/**.spec.js"
   },
   "author": "Marvin Ambrose",
   "license": "ISC",
