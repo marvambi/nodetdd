@@ -1,6 +1,6 @@
 # Test-Driven-Express for building APIs in NodeJS
 
-The process is: define a test that expects the output we want from our library, API, or whatever it is we’re testing to produce; ensure that the test fails – because we have not yet implemented any functionality; then write the implementation code required to make that test pass.<span id="more-419650"></span>
+The process is: define a test that expects the output we want from our library, API, or whatever it is we’re testing to produce; ensure that the test fails – because we have not yet implemented any functionality; then write the implementation code required to make that test pass.<span id="more"></span>
 
 ## Initial Steps
 
